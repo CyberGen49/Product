@@ -1,8 +1,6 @@
 # Product Suite
  Product is a suite of skins for Rainmeter that feature a minimalist aesthetic and the Google Product Sans font. The goal is to create something that looks great in front of any background and isn't too obstructive, while being informative and convenient.
 
-This skin is still in development, so there isn't much more to show here. 
-
 ## How can I get it?
 
 You can download releases of Product from the [Releases Tab](https://github.com/CyberGen49/Product/releases), or pull the repository into your Rainmeter folder through [GitHub Desktop](https://desktop.github.com/).
